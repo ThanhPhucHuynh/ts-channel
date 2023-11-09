@@ -1,9 +1,10 @@
 {
-  "name": "channel",
-  "version": "1.0.0",
+  "name": "typescript-channel",
+  "version": "1.0.1",
   "description": "Class appears to be a simple implementation of a communication channel with state management for sending and receiving messages",
   "main": "lib/channel.js",
   "types": "lib/channel.d.ts",
+  "author": "Thanh Phuc Huynh",
   "files": [
     "lib"
   ],
@@ -13,7 +14,7 @@
     "prepare" : "npm run build"
   },
   "repository": {
-    "url": ""
+    "url": "https://github.com/ThanhPhucHuynh/ts-channel"
   },
   "devDependencies": {
     "@types/jest": "^29.5.8",
