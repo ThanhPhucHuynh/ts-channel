@@ -1,0 +1,27 @@
+{
+  "name": "channel",
+  "version": "1.0.0",
+  "description": "Class appears to be a simple implementation of a communication channel with state management for sending and receiving messages",
+  "main": "lib/channel.js",
+  "types": "lib/channel.d.ts",
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "jest",
+    "build": "tsc",
+    "prepare" : "npm run build"
+  },
+  "repository": {
+    "url": ""
+  },
+  "devDependencies": {
+    "@types/jest": "^29.5.8",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.1.1",
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "ts-node": "^10.9.1"
+  }
+}
