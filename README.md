@@ -1,3 +1,5 @@
+[LINK TEST](https://thanhphuchuynh.github.io/ts-channel/coverage/lcov-report/index.html)
+
 ```go
 
 channel = new Channel<number>();
