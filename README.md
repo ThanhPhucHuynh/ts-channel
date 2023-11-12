@@ -1,5 +1,6 @@
 [LINK TEST](https://thanhphuchuynh.github.io/ts-channel/coverage/lcov-report/index.html)
 
+[typescript-channel - npm ](https://www.npmjs.com/package/typescript-channel)
 ```go
 
 channel = new Channel<number>();
